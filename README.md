@@ -1,27 +1,29 @@
-# Task2HotelReservationApp
+# Hotel Reservation App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
+A simple hotel reservation management application that allows users to view, create, edit, and delete reservations. This app provides an intuitive interface for managing hotel bookings efficiently.
+
+## Features
+
+- **Reservations List**: View a list of all reservations.
+- **Create Reservation Form**: Allows users to create a new reservation.
+- **Edit Reservation Form**: Users can edit details of an existing reservation.
+- **Delete Reservation**: Enables deletion of any reservation.
+
+## Pages
+- **Main Page**
+![Знімок екрана 2024-10-25 234514](https://github.com/user-attachments/assets/31f3d039-9fe1-4bd5-9d53-849ce14d090c)
+
+- **Reservations List**
+![Знімок екрана 2024-10-25 234306](https://github.com/user-attachments/assets/44b9c417-219e-4f9b-a543-60564957ce8d)
+
+- **Create reservation**
+![Знімок екрана 2024-10-25 234320](https://github.com/user-attachments/assets/b91d8bf7-c100-4fd6-ad09-5bc6302e0458)
+
+- **Edit Reservation**
+![Знімок екрана 2024-10-25 234501](https://github.com/user-attachments/assets/dcc3f046-fd48-45d0-b1ef-5794ddf38728)
+
+
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
