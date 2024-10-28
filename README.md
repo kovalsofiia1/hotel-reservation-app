@@ -9,8 +9,17 @@ A simple hotel reservation management application that allows users to view, cre
 - **Edit Reservation Form**: Users can edit details of an existing reservation.
 - **Delete Reservation**: Enables deletion of any reservation.
 
+## Branches
+
+### Main Branch
+- **Data Storage**: Reservations data is saved directly in the browser's Local Storage. This allows users to retain their data even when refreshing the page.
+  
+### feat/requests-to-mockoon Branch
+- **Data Storage**: This branch manages reservation data through API requests to a **Mockoon** server, a mock API created specifically for testing. This allows the app to simulate real API calls and responses for reservation management, without needing a live backend.
+
+
 ## Pages
-- **Main Page**
+- **Main Page** 
 ![Знімок екрана 2024-10-25 234514](https://github.com/user-attachments/assets/31f3d039-9fe1-4bd5-9d53-849ce14d090c)
 
 - **Reservations List**
